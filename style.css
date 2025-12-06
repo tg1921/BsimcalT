@@ -1,0 +1,44 @@
+
+.container{
+    box-sizing: border-box;
+    width: 100%;
+    background: linear-gradient(rgb(39, 39, 39));
+    border: 10px solid rgb(46, 10, 10); 
+   
+}
+.calculetor{
+     overflow: hidden;
+    
+}
+h{
+    font-size: 30px;
+}
+.display input{
+    width: 60%;
+    height: 60px;
+
+    font-size: 30px;
+    padding: 2px ;
+}
+.button{
+    display: grid;
+    gap: 3px;
+    padding: 5px;
+    
+
+}
+.btn{
+    border-radius: 11px;
+    font-size: 15px;
+    padding: 5px 5px;
+    background: rgb(164, 164, 164);
+    width: 81px;
+     height: 60px;
+     
+   
+   
+}
+
+
+
+
